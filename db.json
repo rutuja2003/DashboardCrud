@@ -1,0 +1,106 @@
+{
+  "registration": [
+    {
+      "id": "1",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "contact": "",
+      "userName": "",
+      "password": ""
+    },
+    {
+      "firstname": "Rutuja",
+      "lastname": "Sathe",
+      "email": "rutuja@gmail.com",
+      "contact": "34567890",
+      "userName": "sathe",
+      "password": "23456789",
+      "id": "a9b8"
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "contact": "",
+      "userName": "",
+      "password": "",
+      "id": "cd80"
+    },
+    {
+      "firstname": "nikhil",
+      "lastname": "wakhare",
+      "email": "nikhil@gmail.com",
+      "contact": "5678903",
+      "userName": "nikhil",
+      "password": "123456",
+      "id": "4e16"
+    },
+    {
+      "firstname": "Rutik",
+      "lastname": "Sathe",
+      "email": "rutik@gmail.com",
+      "contact": "544568734",
+      "userName": "Rutik",
+      "password": "98765",
+      "id": "e53f"
+    },
+    {
+      "firstname": "abcd",
+      "lastname": "xyz",
+      "email": "xyz@gmail.com",
+      "contact": "3456789",
+      "userName": "xyz",
+      "password": "123456",
+      "id": "1118"
+    },
+    {
+      "id": "9e95",
+      "firstname": "shanita",
+      "lastname": "mapari",
+      "email": "rutujasathe2003@gmail.com",
+      "contact": "678902",
+      "username": "shanita",
+      "password": "1234"
+    },
+    {
+      "id": "9762",
+      "firstname": "rutik",
+      "lastname": "sathe",
+      "email": "rutujasathe2003@gmail.com",
+      "contact": "8010956972",
+      "username": "rutik",
+      "password": "12345"
+    }
+  ],
+  "home": [
+    {
+      "id": "29725018-5136-4849-8af5-7a7a052b27c2",
+      "name": "Rutu",
+      "email": "rutujasathe2003@gmail.com",
+      "number": "76543234567",
+      "city": "tryuio"
+    },
+    {
+      "name": " shreya",
+      "email": "shreya@gmail.com",
+      "number": "84567809",
+      "city": "shirur",
+      "id": "9a55375c-9b7c-4459-b66e-5a125b6e6f22"
+    },
+    {
+      "id": "a0d83dee-cb50-4382-85a5-5cb641f29b6e",
+      "name": "Shanita",
+      "email": "shaniat@123gmail.com",
+      "number": "45678876543",
+      "city": "nagar"
+    },
+    {
+      "id": "ede2c0d2-ae51-49a3-bccd-c97764a62c6e",
+      "name": "Rutu",
+      "email": "shital@gmail.com",
+      "number": "45678876543",
+      "city": "mumbai"
+    }
+  ]
+}

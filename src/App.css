@@ -1,0 +1,43 @@
+ .card{
+  margin:auto;
+  padding: 30px;
+  width: 50%;
+ 
+ }
+ .center{
+  text-align: center;
+ }
+
+ nav{
+  background-color: black;
+ }
+
+ nav h1{
+   color:white;
+   text-align: center;
+   padding: 20px;
+ }
+
+ .sidebar{
+  height:100vh;
+  background-color: antiquewhite;
+ }
+
+ .active{
+  background-color: aqua;
+  color: white;
+  border-radius: 5 px;
+ }
+
+ .nav-item .nav-link{
+  color:black;
+  font-size: 18px;
+  padding: 10px 15px;
+  text-decoration: none;
+
+ }
+
+ .nav-item .nav-link:hover{
+  background-color: aliceblue;
+  border-radius: 5px;
+ }
